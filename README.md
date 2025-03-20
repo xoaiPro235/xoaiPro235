@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xoaiPro235
-- 👀 I’m interested in MLops
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning Mathmetic and Computer Science
   
 - 📫 How to reach me: maivanluc.it@gmail.com
