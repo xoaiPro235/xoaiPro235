@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mai Van Luc
-- 👀 I’m interested in Devops
+- 👀 I’m interested in Devops, Cloud Computing and Backend
 - 🌱 I’m currently learning Mathmetic and Computer Science
   
 - 📫 How to reach me: maivanluc.it@gmail.com
